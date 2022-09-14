@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eeguiaSBP
+- 👀 I’m interested in cardiac aging and degeneration. Also dogs.
+- 🌱 I’m currently learning clustering and genetic data analysis.
+- 📫 eeguia@SBPdiscovery.org
